@@ -27,6 +27,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
-    "core-js": "^3.37.1"
+    "core-js": "^3.37.1",
+    "moment": "^2.30.1"
   }
 }
